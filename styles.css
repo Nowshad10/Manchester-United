@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    font-size: 150px;
+    background-color: yellow;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+table {
+    border: 2px solid black;
+    background-color: gold;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#player-info {
+    text-align: center;
+}
+
+.container-fluid {
+    background-color: red;
+}
+
+#basic-info {
+    text-align: center;
+    background-color: gold;
+}
+
+nav:hover {
+    text-transform: uppercase;
+}
+
+
